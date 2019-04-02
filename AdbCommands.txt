@@ -1,4 +1,4 @@
-*Adb Server*
+#Adb Server
 
 adb kill-server
 adb start-server 
