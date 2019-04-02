@@ -1,8 +1,10 @@
-== Adb Server
+*Adb Server*
+
 adb kill-server
 adb start-server 
 
-== Adb Reboot
+Adb Reboot
+
 adb reboot
 adb reboot recovery 
 adb reboot-bootloader
